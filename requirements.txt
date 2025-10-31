@@ -1,0 +1,33 @@
+# Web Framework
+fastapi
+uvicorn[standard]
+gunicorn
+requests
+
+# Settings Management
+pydantic-settings
+pydantic[email]
+
+# Database (PostgreSQL)
+SQLAlchemy
+psycopg2-binary
+
+# Security & Authentication
+python-jose[cryptography]
+passlib[bcrypt]
+google-auth
+PyJWT[cryptography]
+redis
+
+
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langgraph
+langgraph-checkpoint-postgres
+mem0ai
+qdrant-client
+python-dotenv
+rich
+psycopg[binary]
