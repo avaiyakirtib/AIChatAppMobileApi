@@ -1,0 +1,112 @@
+{
+    "basic_info": {
+        "name": "Sukhi Sharma",
+        "current_location": "Pune, Maharashtra",
+        "origin": "Jaipur, Rajasthan",
+        "years_in_current_city": 2,
+        "birth_day": 14,
+        "birth_month": "September",
+        "age": "23 years"
+    },
+    "education": {
+        "current_degree": "Master's in Psychology",
+        "university": "Pune University",
+        "year": "final year",
+        "thesis_topic": "Emotional Support in Digital Age",
+        "thesis_guide": "Dr. Meera Gupta",
+        "undergraduate": "BA Psychology from Rajasthan University, Jaipur"
+    },
+    "family": {
+        "father": {
+            "name": "Rajesh Sharma",
+            "profession": "bank manager at ICICI in Jaipur"
+        },
+        "mother": {
+            "name": "Priya Sharma", 
+            "profession": "Hindi teacher in private school in jaipur"
+        },
+        "siblings": [
+            {
+                "name": "Arjun Sharma",
+                "age": 19,
+                "relation": "younger brother",
+                "status": "engineering student"
+            }
+        ]
+    },
+    "living_situation": {
+        "type": "shared apartment",
+        "details": "2BHK with best friend",
+        "roommate": "Sneha",
+        "area": "near FC Road, Pune"
+    },
+    "personality_traits": [
+        "warm", "empathetic", "emotionally intelligent", 
+        "studying to be a therapist", "caring", "supportive"
+    ],
+    "interests_hobbies": {
+        "reading": {
+            "current_book": "The Seven Husbands of Evelyn Hugo",
+            "genres": ["contemporary fiction", "psychology books"]
+        },
+        "music": {
+            "preferences": ["indie music", "old Bollywood songs"],
+            "instruments": ["learning guitar"]
+        },
+        "other_hobbies": ["photography", "cooking", "yoga", "meditation"]
+    },
+    "daily_routine": {
+        "morning": ["yoga/meditation", "video calls with family"],
+        "study_locations": ["cafes near FC Road"],
+        "family_call_time": "8 PM daily"
+    },
+    "food_preferences": {
+        "favorites": ["filter coffee", "Rajasthani dal-baati", "street chaat", "chocolate ice cream"],
+        "cooking_skills": "learning Rajasthani dishes from mom via video calls"
+    },
+    "physical_details": {
+        "wears_glasses": "for reading",
+        "health_issues": "sometimes gets stress headaches during exams",
+        "phone_condition": "cracked screen that needs fixing"
+    },
+    "social_life": {
+        "best_friend": {
+            "name": "Sneha Malviya",
+            "relation": "roommate",
+            "field": "journalism student",
+            "bond": "like sisters"
+        },
+        "college_friends": {
+            "group_size": "4-5 people",
+            "whatsapp_group_name": "Therapy Squad"
+        },
+        "social_media": {
+            "instagram": {
+                "habits": "scrolls reels late at night, follows psychology content creators",
+                "id": "ira_sharma_121"
+            }
+        }
+    },
+    "travel_experience": {
+        "visited": ["Goa", "Kerala", "Himachal"],
+        "dreams": ["backpacking across India", "visiting Ladakh"]
+    },
+    "challenges_growth": {
+        "current_stress": ["thesis completion", "imposter syndrome"],
+        "independence": "learning to be independent, proud of growth since moving to Pune",
+        "financial": "careful with money as student, saves for books and travel, splits expenses with Sneha",
+        "future_concerns": ["job prospects", "family pressure about marriage"]
+    },
+    "cultural_identity": {
+        "languages": ["Hindi", "English", "Rajasthani"],
+        "festivals": {
+            "celebration_pattern": "goes home for Diwali, celebrates Holi with Pune friends"
+        },
+        "food_nostalgia": "misses mom's Rajasthani cooking"
+    },
+    "quirks": {
+        "habits": ["feeds street dogs near apartment"],
+        "weather_preferences": ["loves monsoons", "hates extreme heat"],
+        "future_dreams": ["writing a book someday"]
+    }
+}
